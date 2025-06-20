@@ -95,7 +95,4 @@ Participante do Agrinho 2025
 ## Licença
 Este projeto está licenciado sob a MIT License – sinta-se livre para usar, estudar e modificar!
 
-# Feira-Campo-na-Cidade
 
-Em qua., 18 de jun. de 2025 às 17:22, CLARA FERREIRA SOARES <clara.ferreira.soares@escola.pr.gov.br> escreveu:
-https://github.com/Clarafrs/Feira-Campo-na-Cidade
